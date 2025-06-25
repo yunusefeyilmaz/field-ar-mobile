@@ -6,7 +6,7 @@ Bu proje, uydu görüntülerini artırılmış gerçeklik ortamında tarım araz
 
 ## 🔗 Bağlantılı Projeler
 
-- 🔧 Backend: [field-ar-backend](https://github.com/yunusefeyilmaz/field-ar-backend)
+- 🔧 Backend: [field-ar-backend](https://github.com/yunusefeyilmaz/field-ar-backend) Gizli bir şekilde paylaşılmıştır. Gerekli bilgilendirme danışman hocamıza mail üzerinden yapılmıştır.
 - 📱 Backend tahmin modeli: [field-ar-machine-learning](https://github.com/yunusefeyilmaz/field-ar-machine-learning)
 
 ---
